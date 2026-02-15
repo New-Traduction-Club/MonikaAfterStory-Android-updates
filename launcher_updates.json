@@ -1,0 +1,44 @@
+{
+    "updates": [
+        {
+            "id": "lang_es",
+            "name": "English Language Pack",
+            "description": "English lanugage",
+            "version": 100,
+            "version_name": "1.0.0",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V100/en.zip",
+            "type": "language",
+            "target_file": "en.zip"
+        },
+        {
+            "id": "lang_es",
+            "name": "Spanish Language Pack",
+            "description": "Spanish lanugage",
+            "version": 100,
+            "version_name": "1.0.0",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V100/es.zip",
+            "type": "language",
+            "target_file": "es.zip"
+        },
+        {
+            "id": "lang_pt",
+            "name": "Portuguese Language Pack",
+            "description": "Tradução para português.",
+            "version": 100,
+            "version_name": "1.0.0",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V100/pt.zip",
+            "type": "language",
+            "target_file": "pt.zip"
+        },
+        {
+            "id": "py_scripts",
+            "name": "Python Packages & Extras",
+            "description": "Scripts and other python libs.",
+            "version": 100,
+            "version_name": "1.0.0",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V100/py_scripts_and_other_stuff.zip",
+            "type": "system",
+            "target_file": "py_scripts_and_other_stuff.zip"
+        }
+    ]
+}
