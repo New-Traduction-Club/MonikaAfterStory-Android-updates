@@ -34,9 +34,9 @@
             "id": "py_scripts",
             "name": "Python Packages & Extras",
             "description": "Scripts and other python libs.",
-            "version": 101,
-            "version_name": "1.0.1",
-            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V100/py_scripts_and_other_stuff.zip",
+            "version": 102,
+            "version_name": "1.0.2",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V102/py_scripts_and_other_stuff.zip",
             "type": "system",
             "target_file": "py_scripts_and_other_stuff.zip"
         }
