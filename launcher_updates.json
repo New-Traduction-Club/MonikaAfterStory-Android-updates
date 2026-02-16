@@ -14,9 +14,9 @@
             "id": "lang_es",
             "name": "Spanish Language Pack",
             "description": "Spanish lanugage",
-            "version": 103,
-            "version_name": "1.0.3",
-            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V103/es.zip",
+            "version": 104,
+            "version_name": "1.0.4",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V104/es.zip",
             "type": "language",
             "target_file": "es.zip"
         },
