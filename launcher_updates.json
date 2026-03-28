@@ -24,9 +24,9 @@
             "id": "lang_pt",
             "name": "Portuguese Language Pack",
             "description": "Tradução para português.",
-            "version": 110,
-            "version_name": "1.1.0",
-            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V110/pt.zip",
+            "version": 111,
+            "version_name": "1.1.1",
+            "url": "https://github.com/New-Traduction-Club/MonikaAfterStory-Android-updates/raw/refs/heads/main/V111/pt.zip",
             "type": "language",
             "target_file": "pt.zip"
         },
